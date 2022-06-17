@@ -12,6 +12,7 @@
         <module>spring-01-ioc1</module>
         <module>spring-02-helloWorld</module>
         <module>spring-03-ioc2</module>
+        <module>testCalculate</module>
     </modules>
     <dependencies>
         <dependency>
