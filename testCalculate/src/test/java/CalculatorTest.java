@@ -12,10 +12,17 @@ public class CalculatorTest {
         Assert.assertEquals(expectAnswer, ans);
     }
     @Test
-    public void shouldReturn2When1Sub1() throws IllegalAccessException, ClassNotFoundException, InstantiationException {
+    public void shouldReturn0When1Sub1() throws IllegalAccessException, ClassNotFoundException, InstantiationException {
         Calculator calculator = new Calculator();
         int ans = calculator.compute(1, 1, "Sub");
         int expectAnswer = 0;
+        Assert.assertEquals(expectAnswer, ans);
+    }
+    @Test
+    public void shouldReturn2When2Mulit1() throws IllegalAccessException, ClassNotFoundException, InstantiationException {
+        Calculator calculator = new Calculator();
+        int ans = calculator.compute(2, 1, "Mulit");
+        int expectAnswer = 2;
         Assert.assertEquals(expectAnswer, ans);
     }
 }

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31320493-ad92-404c-8362-226d8d863c1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/ComputeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/testCalculate/src/main/java/ComputeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCalculate/src/main/java/Mulit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,15 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-02-helloWorld/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
+            <state relative-caret-position="54">
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -93,8 +84,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/ComputeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+            <state relative-caret-position="162">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Mulit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCalculate/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="243">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -272,13 +276,14 @@
         <option value="$PROJECT_DIR$/spring-03-ioc2/src/main/java/com/huawei/pojo/User.java" />
         <option value="$PROJECT_DIR$/spring-02-helloWorld/src/test/java/com/huawei/pojo/HelloTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/testCalculate/src/test/java/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/testCalculate/src/main/java/add.java" />
         <option value="$PROJECT_DIR$/testCalculate/src/main/java/Computable.java" />
         <option value="$PROJECT_DIR$/testCalculate/src/main/java/Add.java" />
         <option value="$PROJECT_DIR$/testCalculate/src/main/java/Sub.java" />
-        <option value="$PROJECT_DIR$/testCalculate/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/testCalculate/src/main/java/ComputeFactory.java" />
+        <option value="$PROJECT_DIR$/testCalculate/src/main/java/Calculator.java" />
+        <option value="$PROJECT_DIR$/testCalculate/src/test/java/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/testCalculate/src/main/java/Mulit.java" />
       </list>
     </option>
   </component>
@@ -486,7 +491,7 @@
       <workItem from="1654155972500" duration="4470000" />
       <workItem from="1655363480049" duration="3264000" />
       <workItem from="1655373298099" duration="1939000" />
-      <workItem from="1655445864595" duration="4950000" />
+      <workItem from="1655445864595" duration="5489000" />
     </task>
     <servers />
   </component>
@@ -515,9 +520,12 @@
     <history-entry file="CalculatorTest - 2022.06.17 at 15h 43m 26s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest - 2022.06.17 at 15h 51m 58s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22563000" />
+    <option name="totallyTimeSpent" value="23102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -738,6 +746,13 @@
     <entry file="file://$PROJECT_DIR$/testCalculate/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Computable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -746,13 +761,6 @@
             <element signature="e#83#84#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -769,25 +777,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCalculate/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="243">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Computable.java">
+    <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Mulit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testCalculate/src/main/java/ComputeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
