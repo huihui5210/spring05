@@ -14,8 +14,8 @@ public class CalculatorTest {
     @Test
     public void shouldReturn2When1Sub1() {
         Calculator calculator = new Calculator();
-        int ans = calculator.compute(1, 2, '-');
-        int expectAnswer = 3;
+        int ans = calculator.compute(1, 1, '-');
+        int expectAnswer = 0;
         Assert.assertEquals(expectAnswer, ans);
     }
 }
