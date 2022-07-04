@@ -4,118 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/spring-02-helloWorld/src/main/resources/beans.xml" line="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31320493-ad92-404c-8362-226d8d863c1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/apllication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/userbeans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/apllication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/beans1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/beans2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/classes/com/huawei/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/META-INF/spring-03-ioc2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-03-ioc2/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di/src/main/java/com/huawei/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/spring-05-autowired/target/classes/com/huawei/pojo/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/spring-05-autowired/target/classes/com/huawei/pojo/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/spring-05-autowired/target/classes/com/huawei/pojo/People.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/spring-05-autowired/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/src/main/java/com/huawei/cater/pojo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/src/main/java/com/huawei/cater/pojo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/target/classes/com/huawei/cater/pojo/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/target/classes/com/huawei/cater/pojo/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-04-di1/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/src/main/java/com/huawei/pojo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/src/main/java/com/huawei/pojo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/src/main/java/com/huawei/pojo/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/src/main/resources/beans2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-05-autowired/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/src/main/java/com/huawei/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/src/main/java/com/huawei/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/src/main/java/com/huawei/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/src/main/java/com/huawei/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/target/classes/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/target/classes/com/huawei/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-06-anno/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/src/main/java/com/huawei/cater/Config/CaterConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/src/main/java/com/huawei/cater/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/target/classes/com/huawei/cater/Config/CaterConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/target/classes/com/huawei/cater/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-07-javaconfig/target/test-classes/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo01/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo01/Host.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo01/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo01/Rent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo03/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo03/ProxyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo2/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo2/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/src/main/java/com/huawei/demo2/UserServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo01/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo01/Host.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo01/Proxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo01/Rent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo03/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo03/ProxyInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo2/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo2/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo2/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-08-proxy/target/classes/com/huawei/demo2/UserServiceProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/java/com/huawei/cater/log/AnnotationPointCut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/java/com/huawei/cater/log/DiyPointcutMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/java/com/huawei/cater/log/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/java/com/huawei/cater/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/java/com/huawei/cater/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/resources/annoapplication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/main/resources/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/src/test/java/Mytest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/annoapplication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/huawei/cater/log/AnnotationPointCut.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/huawei/cater/log/DiyPointcutMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/huawei/cater/log/Log.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/huawei/cater/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/classes/com/huawei/cater/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-09-aop/target/test-classes/Mytest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-10-mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-10-mybatis/src/main/java/com/huawei/cater/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-10-mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring05" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/src/main/java/dao/UserDaoOracleIpml.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-01-ioc1/src/main/java/dao/UserDaoOracleIpml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-01-ioc1/target/classes/dao/UserDaoOracleIpml.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-01-ioc1/target/classes/dao/UserDaoOracleIpml.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-helloWorld/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-02-helloWorld/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-helloWorld/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-02-helloWorld/src/test/java/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-helloWorld/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-02-helloWorld/target/classes/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-02-helloWorld/target/test-classes/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-02-helloWorld/target/test-classes/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-04-di/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/Add.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/Computable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/ComputeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/Mulit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/main/java/Sub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCalculate/src/test/java/CalculatorTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="31320493-ad92-404c-8362-226d8d863c1c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-01-ioc1/target/" />
@@ -639,7 +528,7 @@
       <workItem from="1656644021768" duration="5876000" />
       <workItem from="1656665627993" duration="3419000" />
       <workItem from="1656743953267" duration="9422000" />
-      <workItem from="1656901444636" duration="13685000" />
+      <workItem from="1656901444636" duration="14220000" />
     </task>
     <servers />
   </component>
@@ -676,7 +565,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61940000" />
+    <option name="totallyTimeSpent" value="62475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
