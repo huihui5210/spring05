@@ -6,6 +6,7 @@ public class MyTest {
         // xml的方式
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
         Hello hello =(Hello) context.getBean("hello");
+        System.out.println(hello.getStr());
         hello.show();
     }
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--添加aop约束-->
+    <!--配置bean-->
+    <!--    使用spring中自带aop类，方法强大，可以添加更多内容-->
+    <bean id="annotationPointCut" class="com.huawei.cater.log.AnnotationPointCut"/>
+    <bean id="userService" class="com.huawei.cater.service.UserServiceImpl"/>
+    <!--    开启注解支持-->
+    <aop:aspectj-autoproxy/>
+</beans>

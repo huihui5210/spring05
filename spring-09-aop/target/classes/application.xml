@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--添加aop约束-->
+    <!--配置bean-->
+    <!--    使用spring中自带aop类，方法强大，可以添加更多内容-->
+        <bean id="userService" class="com.huawei.cater.service.UserServiceImpl"/>
+    <!--    <bean id="log" class="com.huawei.cater.log.Log" />-->
+    <!--    <aop:config>-->
+    <!--        <aop:pointcut id="pointcut" expression="execution(* com.huawei.cater.service.UserServiceImpl.*(..))"/>-->
+    <!--        <aop:advisor advice-ref="log" pointcut-ref="pointcut"></aop:advisor>-->
+    <!--    </aop:config>-->
+        <bean id="diy" class="com.huawei.cater.log.DiyPointcutMethod" />
+    <aop:config>
+        <!--自定义切面-->
+        <aop:aspect ref="diy" >
+            <!--自定义切点-->
+        <aop:pointcut id="point" expression="execution(* com.huawei.cater.service.UserServiceImpl.*(..))"/>
+            <!--选择切入点使用的切面方法-->
+        <aop:before pointcut-ref="point" method="before"/>
+            <aop:after method="after" pointcut-ref="point"/>
+        </aop:aspect>
+    </aop:config>
+
+</beans>

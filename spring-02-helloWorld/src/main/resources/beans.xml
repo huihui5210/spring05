@@ -3,8 +3,11 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
            http://www.springframework.org/schema/beans/spring-beans.xsd">
-<!--    &lt;!&ndash;bean就是java对象 , 由Spring创建和管理  注意这里是用的set注入-->
+<!--   bean就是java对象 , 由Spring创建和管理 -->
+    <!--  ref 对象    value 值-->
     <bean id="hello" class="com.huawei.pojo.Hello">
-        <property name="str" value="Spring"/>
+<!--        <property name="str" value="Spring"      注意这里是用的set注入/>-->
+<!--        <constructor-arg index="0" value="spring5"></constructor-arg>   构造器注入的3种方式 最推荐下面这种 通过属性名注入-->
+        <constructor-arg name="str"  value="spring"></constructor-arg>
     </bean>
 </beans>
